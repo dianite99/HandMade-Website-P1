@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(78, 82, 111);
+    color: aliceblue;
+}
+
+#text {
+    font-style: italic;
+}
+
+#link {
+    color:azure;
+}
